@@ -1,5 +1,7 @@
 # NExT WP Media Reclassification
 
+[![Try in WordPress Playground](https://img.shields.io/badge/Try%20in-WordPress%20Playground-3858e9?logo=wordpress)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/AtsushiA/NExT-wp-media-reclassification/main/blueprint.json)
+
 WordPressメディアライブラリのファイルを年/月のフォルダ構造に再分類するプラグインです。
 
 ## 概要
